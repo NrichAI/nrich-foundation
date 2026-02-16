@@ -1,4 +1,3 @@
-#nrich-foundation
 Open behavioral intelligence architecture for personality-adaptive AI systems
 
 The Structural Limitation of Modern AI Systems
